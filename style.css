@@ -37,14 +37,14 @@
  .port-col1 {
     background-color: #f1efef; 
     color: black; 
-    min-width: 300px;
+    /* min-width: 300px; */
     border: 0px;
  }
 
  .port-col2 {
     background-color: #eef4fb; 
     color: black; 
-    min-width: 300px;
+    /* min-width: 300px; */
     border: 0px;
  }
 
