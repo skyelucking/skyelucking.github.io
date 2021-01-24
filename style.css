@@ -3,6 +3,10 @@
 } */
 
 /* Portfolio Images */
+.port-text{
+    font-size: .75em;
+    text-align: center;
+}
 .port-img {
     margin-left: 10px; 
     margin-right: 10px;
