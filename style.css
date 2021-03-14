@@ -37,6 +37,11 @@
     background-color: #333333; 
     border-color: #4b93f0;
  }
+ .port-latest {
+    color: #333333; 
+    background-color: #eef4fb; 
+    border-color: #4b93f0;
+ }
 
  .port-col1 {
     background-color: #f1efef; 
